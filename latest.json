@@ -1,10 +1,10 @@
 {
   "version": "0.1.6",
-  "notes": "Mühür tam eşleşme sağlandı.",
-  "pub_date": "2026-04-28T22:00:00Z",
+  "notes": "Güvenlik zinciri yenilendi. Artık güncellemeler sorunsuz.",
+  "pub_date": "2026-04-29T01:40:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSbnpPaGV3UFJHd1lGUWRnOEIrcnBnUnJuUTRJZTVxYVdpby9vdnNqSTJ2VThUTVpzUjYvcTJrRGQvNmpzeitrRmNYbFNJMTdXbDhqNHhIWThRMS85SGZGUGk4dU83bEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDAyNDM5CWZpbGU6w5xyw7xuVHJlbmRpIFN0dWRpb18wLjEuNV94NjQtc2V0dXAuZXhlCnpFa2hCMG1DUStldFBBVlJRRHlXWGdXUmxQMmJGeENhU1RxMWpVOTBFOXJjK3V5ZW9HNFBwUDVxY1RyRyt3YlVvZldZbDlkY3lMMHZNK2lzdnlYVkNBPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQkVucHQ5Mmg4NHlYZjVhNWpWQzNON0Z3WlUxcUZGblh6Rjlxd2VCRVZwa3BjZldMZU8wbjBTMk9JeDh4OUpiTWFkUFZ5cXlvVHA0bEhTS0FycjYxOWJNbm5tNklYd2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3NDE1ODA0CWZpbGU6w5xyw7xuVHJlbmRpIFN0dWRpb18wLjEuNl94NjQtc2V0dXAuZXhlCnIxUWdwanQ1b29jQ1c4QUQyZnZUNzB4K29UL0gyOVZXdEpzYWI4ekJhZzVTR2x3QjdRem1tZTlNYXFLclNiZzhoWVIxczFjSTRSakVxVEptdlNxZEJRPT0K",
       "url": "https://github.com/eyupogluserdar/uruntrendi-updates/releases/download/v0.1.3/UrunTrendi.Studio_0.1.3_x64-setup.exe"
     }
   }
